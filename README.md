@@ -1,37 +1,112 @@
 # SQL Portfolio Projects
 
-A collection of end-to-end SQL projects demonstrating data analysis, business intelligence, ETL pipelines, and data warehousing concepts.
+A collection of end-to-end SQL projects focused on Data Analytics, Business Intelligence, Data Engineering, and Data Warehousing.
+
+These projects demonstrate practical SQL skills including aggregations, window functions, CTEs, ranking functions, ETL processes, and dimensional modeling using real-world business scenarios.
+
+## Technologies Used
+
+* SQL
+* PostgreSQL
+* MySQL
+* Window Functions
+* Common Table Expressions (CTEs)
+* Data Modeling
+* ETL Concepts
+
+---
 
 ## Projects
 
-### 1. Global Data Center & AI Water/Electricity Usage
-Skills:
-- Aggregations
-- Window Functions
-- CTEs
-- LAG/LEAD
-- NTILE
+### Project 01: Global Data Center & AI Water/Electricity Usage
 
-### 2. Customer Churn & RFM Analysis
-Skills:
-- Customer Segmentation
-- Cohort Analysis
-- CTEs
+**Focus:** Sustainability Analytics
 
-### 3. Social Media Engagement Analytics
-Skills:
-- Ranking
-- Trend Analysis
-- Window Functions
+**Skills Demonstrated:**
 
-### 4. E-Commerce ETL Pipeline
-Skills:
-- Data Cleaning
-- Staging Tables
-- Incremental Loads
+* Aggregations
+* Window Functions
+* CTEs
+* LAG / LEAD
+* NTILE
+* Growth Analysis
+* Anomaly Detection
 
-### 5. Healthcare Data Warehouse
-Skills:
-- Star Schema
-- Fact & Dimension Tables
-- SCD Type 2
+**Status:** In Progress
+
+---
+
+### Project 02: Customer Churn & RFM Analysis
+
+**Focus:** Customer Analytics
+
+**Skills Demonstrated:**
+
+* Customer Segmentation
+* Cohort Analysis
+* RFM Modeling
+* CTEs
+
+**Status:** Planned
+
+---
+
+### Project 03: Social Media Engagement Analytics
+
+**Focus:** Marketing Analytics
+
+**Skills Demonstrated:**
+
+* Ranking Functions
+* Trend Analysis
+* Advanced Window Functions
+
+**Status:** Planned
+
+---
+
+### Project 04: E-Commerce ETL Pipeline
+
+**Focus:** Data Engineering
+
+**Skills Demonstrated:**
+
+* Data Cleansing
+* Staging Tables
+* Incremental Loads
+* ETL Design
+
+**Status:** Planned
+
+---
+
+### Project 05: Healthcare Data Warehouse
+
+**Focus:** Data Warehousing
+
+**Skills Demonstrated:**
+
+* Star Schema
+* Fact & Dimension Tables
+* Slowly Changing Dimensions (SCD Type 2)
+
+**Status:** Planned
+
+---
+
+## Repository Structure
+
+Each project contains:
+
+* Project Documentation
+* Dataset Information
+* SQL Scripts
+* Business Questions
+* Analysis Results
+* Key Insights
+
+---
+
+## Author
+
+Sciddhanto Sinha
